@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-puts "Hello World!"
+name="Miles"
+
+puts "Hello #{name}"
